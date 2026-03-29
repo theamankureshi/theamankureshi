@@ -1,37 +1,62 @@
-# Hi 👋, I'm Aman Kureshi
+<img src="https://github.com/user-attachments/assets/e4b9ab96-15db-4d7b-b56a-522d6456d9d5" width="100%" height="200" />
 
-### A budding Typescript developer
+## Full Stack Developer • Cybersecurity Engineer • AI Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanKureshi06&label=Profile views&color=0e75b6&style=flat" alt="AmanKureshi06" /> </p>
+I build AI-powered platforms, secure web applications, and developer-focused tools using modern technologies. My work focuses on combining artificial intelligence with cybersecurity to create scalable, reliable, and production-ready systems.
 
-- 🔭 I'm currently working on **an advance AI model**
+Currently building AI-native and security-focused products. Open to collaborations, internships, and product-driven opportunities.
 
-- 🌱 I'm currently learning **Cybersecurity**
+[![](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amankureshi-webdev)
+[![](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/amankureshi06)
 
-- 💬 Ask me about **AI, Python, Next.js, Node.js, React.js**
+---
+### Projects
 
-- 📫 How to reach me **amankureshi.contact@gmail.com**
+| Project | Type | What it does |
+|---|---|---|
+| [Awake Solutions](https://awakesolutions.in) | Startup | AI-native company building scalable products, security tools, and intelligent systems |
+| [Awake AI](https://chat.awakesolutions.in) | AI Platform | Sovereign conversational AI platform with scalable architecture and real-time responses |
+| [Guardline Security](https://guardline.awakesolutions.in) | Security Tool | Code vulnerability scanning platform using SAST and automated analysis |
+| [Formnex](https://formnex.awakesolutions.in) | Dev Tool / SaaS | API-based form submission backend for static and dynamic websites |
 
-- 👨‍💻 All of my projects are available at **[https://amankureshiportfolio.vercel.app/](https://amankureshiportfolio.vercel.app/)**
+---
 
-- 📝 I regularly write articles on **[https://amankureshiportfolio.vercel.app/](https://amankureshiportfolio.vercel.app/)**
+### Experience
 
-- 📄 Know about my experiences **[https://amankureshiportfolio.vercel.app/resume](https://amankureshiportfolio.vercel.app/resume)**
+**Web Developer — Ciencias in VR Private Limited (Ahmedabad)**  
+*May 2024 — June 2024*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/AmanKureshi06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AmanKureshi06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amankureshi-webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amankureshi-webdev" height="30" width="40" /></a>
-<a href="https://instagram.com/amankureshi.webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amankureshi.webdev" height="30" width="40" /></a>
-<a href="https://twitter.com/awake_solutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awake_solutions" height="30" width="40" /></a>
-</p>
+- Developed core modules for a device tracking system using PHP & Bootstrap  
+- Improved UI responsiveness and application performance  
+- Built cross-device compatible frontend components  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/appwrite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=appwrite" alt="appwrite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mlflow" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanKureshi06&show_icons=true&locale=en&layout=compact" alt="AmanKureshi06" /></p>
+### Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmanKureshi06&show_icons=true&locale=en" alt="AmanKureshi06" /></p>
+**Languages:** JavaScript, TypeScript, Python, PHP, C, Java  
+**Frontend:** React.js, Next.js, Vite, HTML5, CSS3, Tailwind CSS, Bootstrap, SASS, TanStack, Redux, ShadCN UI, Motion, Three.js  
+**Backend:** Node.js, Express.js, Django, Flask, REST APIs, Authentication, tRPC, GraphQL, Prisma, Drizzle ORM, Socket.io  
+**AI:** Conversational AI, Generative AI, Prompt Engineering, LLM Integration  
+**Cybersecurity:** SAST, Vulnerability Scanning, Secure Coding, Web Security  
+**Databases:** PostgreSQL, MongoDB, MySQL, Redis  
+**Tools & Platforms:** Git, GitHub, Docker, NPM, PNPM, CLI, AWS, Vercel, Cloudflare, Google Analytics  
+**Collaboration & Design:** Figma, Notion, Slack, Discord, Linear  
+**AI Platforms:** OpenAI, Anthropic  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanKureshi06&" alt="AmanKureshi06" /></p>
+---
 
+### Focus Areas
+
+- AI-powered applications & LLM systems  
+- Secure software development & DevSecOps  
+- Backend architecture & scalable APIs  
+- Developer tools and automation platforms  
+
+---
+
+### Certifications
+
+- Cisco Introduction to Cybersecurity  
+- Generative AI: Prompt Engineering Basics (IBM)  
+- Introduction to Python (Coursera)  
