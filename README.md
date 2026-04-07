@@ -7,7 +7,7 @@ I build AI-powered platforms, secure web applications, and developer-focused too
 Currently building AI-native and security-focused products. Open to collaborations, internships, and product-driven opportunities.
 
 [![](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amankureshi-webdev)
-[![](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/amankureshi06)
+[![](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/theamankureshi)
 
 ---
 ### Projects
