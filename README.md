@@ -60,8 +60,3 @@ Currently building AI-native and security-focused products. Open to collaboratio
 - Cisco Introduction to Cybersecurity  
 - Generative AI: Prompt Engineering Basics (IBM)  
 - Introduction to Python (Coursera)  
-
----
-
-### Github Activity
-<img src="http://ghchart.rshah.org/theamankureshi" alt="Aman's GitHub Activity" />
