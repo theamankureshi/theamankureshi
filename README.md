@@ -18,6 +18,7 @@ Currently building AI-native and security-focused products. Open to collaboratio
 |---|---|---|
 | [Awake Solutions](https://awakesolutions.in) | Startup | AI-native company building scalable products, security tools, and intelligent systems |
 | [WebSnatch](https://websnatch.in) | Startup | Building scalable products, advanced security tools, and intelligent systems |
+| [Astra Kavach Technologies](https://astrakavach.in) | Startup | Engineering smart, secure, and scalable solutions |
 | [Awake AI](https://chat.awakesolutions.in) | AI Model Platform | Sovereign conversational AI platform with scalable architecture and real-time responses |
 | [Guardline Security](https://guardline.awakesolutions.in) | Security Tool | Code vulnerability scanning platform using SAST and automated analysis |
 | [Formnex](https://formnex.awakesolutions.in) | Dev Tool / SaaS | API-based form submission backend for static and dynamic websites |
